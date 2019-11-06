@@ -20,18 +20,18 @@ export PS1="\[\033[36m\]\u\[\033[m\]@\[\033[32m\]\h:\[\033[33;1m\]\w\$(parse_git
 alias powershell="/usr/local/microsoft/powershell/6/pwsh ; exit;"
 
 #Chrome for headless chrome
-alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
+# alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 # Ex: chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
 # Ex: chrome --headless --disable-gpu --dump-dom https://www.chromestatus.com/
 
-alias screenshot="chrome --headless --disable-gpu --screenshot"
-alias html="chrome --headless --disable-gpu --dump-dom"
-alias md="mdv"
+# alias screenshot="chrome --headless --disable-gpu --screenshot"
+# alias html="chrome --headless --disable-gpu --dump-dom"
+# alias md="mdv"
 
 # Folder for all repos
-alias repo="cd ~/_Repos"
-alias scratch="cd ~/_Repos/_scratchpad"
-alias scratchpad="cd ~/_Repos/_scratchpad"
+alias repos="cd ~/Repos"
+# alias scratch="cd ~/_Repos/_scratchpad"
+# alias scratchpad="cd ~/_Repos/_scratchpad"
 
 # Source - https://medium.com/@tzhenghao/a-guide-to-building-a-great-bashrc-23c52e466b1c
 alias ..='cd ..'
@@ -50,19 +50,19 @@ alias df="df -h"
 alias localip="ipconfig getifaddr en0"
 
 # Lock the screen (when going AFK)
-alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+# alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
 
 # git aliases
-alias gdf="git diff"
-alias gap="git add -p"
-alias ga="git add ."
-alias gc="git commit -m"
-alias gs="git status"
-alias gco="git checkout"
-alias gul="git pull"
-alias gush="git push"
-alias gbra="git branch"
-alias glog="git log --pretty=format:'%h - %an: %s' --graph" # print out log with hash, author name, status, and include graph info
+# alias gdf="git diff"
+# alias gap="git add -p"
+# alias ga="git add ."
+# alias gc="git commit -m"
+# alias gs="git status"
+# alias gco="git checkout"
+# alias gul="git pull"
+# alias gush="git push"
+# alias gbra="git branch"
+# alias glog="git log --pretty=format:'%h - %an: %s' --graph" # print out log with hash, author name, status, and include graph info
 
 # Determine size of a file or total size of a directory
 function fs() {
