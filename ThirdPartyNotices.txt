@@ -1,6 +1,21 @@
+
+THIRD-PARTY SOFTWARE NOTICES AND INFORMATION
+Do Not Translate or Localize
+
+Automate MacOS Setup incorporates third party material from the projects listed below. The original copyright notice 
+and the license under which I received such third party material are set forth below. 
+I reserve all other rights not expressly granted, whether by implication, estoppel or 
+otherwise. 
+
+
+1.  Automate MacOS Setup (https://github.com/thedanfernandez/Automate-MacOS-Setup)
+
+
+%% Automate MacOS Setup NOTICES, INFORMATION, AND LICENSE BEGIN HERE
+=========================================
 MIT License
 
-Copyright (c) 2019 Alex Nichols
+Copyright (c) 2019 Dan Fernandez
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +34,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=========================================
+END OF Automate MacOS Setup NOTICES, INFORMATION, AND LICENSE
