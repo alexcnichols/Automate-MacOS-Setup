@@ -2,22 +2,22 @@
 # setup: pip3 install --requirement=requirements.txt
 # or run pipinstall.sh
 # Note no versions numbers included so this grabs latest
-beautifulsoup4          # Screen scraping
-graphviz                # Visualization library
-grequests               # async version of requests
-Jinja2                  # Template engine
-jupyter                 # Jupyter Notebooks
+# beautifulsoup4          # Screen scraping
+# graphviz                # Visualization library
+# grequests               # async version of requests
+# Jinja2                  # Template engine
+# jupyter                 # Jupyter Notebooks
 Markdown                # Markdown parser
-MarkupSafe              # Safe encoding / escaping text
-mdv                     # CLI markdown preview
-openpyxl                # Read / Create Excel files
-notebook                # Jupyter notebook
-pandas                  # Data Analysis
-pillow                  # Imaging library
-matplotlib              # Graphing library
-pytest                  # Unit testing Fx
-pyyaml                  # YAML parser
-requests                # HTTP Client library
-soupsieve               # CSS selector for beautifulsoup4
-urllib3                 # HTTP Client library
+# MarkupSafe              # Safe encoding / escaping text
+# mdv                     # CLI markdown preview
+# openpyxl                # Read / Create Excel files
+# notebook                # Jupyter notebook
+# pandas                  # Data Analysis
+# pillow                  # Imaging library
+# matplotlib              # Graphing library
+# pytest                  # Unit testing Fx
+# pyyaml                  # YAML parser
+# requests                # HTTP Client library
+# soupsieve               # CSS selector for beautifulsoup4
+# urllib3                 # HTTP Client library
 wheel                   # Python wheel packaging standard

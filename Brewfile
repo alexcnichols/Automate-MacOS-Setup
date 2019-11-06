@@ -35,7 +35,7 @@ brew "mas"                                  # Mac App store app to download exis
 # brew "node", link: false                    # Nodejs language tools
 # brew "npm"                                  # Node Package Manager
 # brew "pandoc"                               # File format converter
-# brew "python3"                              # Python 3 including pip3
+brew "python3"                              # Python 3 including pip3
 # brew "shpotify"                             # CLI for Spotify on Mac
 # brew "tldr"                                 # simple, community-drive man pages
 # brew "tree"                                 # Tree visualization for directories
