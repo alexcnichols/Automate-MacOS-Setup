@@ -47,7 +47,7 @@ ZSH_THEME="agnoster"
 # ENABLE_CORRECTION="true"
 
 # Uncomment the following line to display red dots whilst waiting for completion.
-#  COMPLETION_WAITING_DOTS="true"
+# COMPLETION_WAITING_DOTS="true"
 
 # Uncomment the following line if you want to disable marking untracked files
 # under VCS as dirty. This makes repository status check for large repositories
@@ -82,7 +82,7 @@ export ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor line)
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
- export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
@@ -106,16 +106,16 @@ export ZSH_HIGHLIGHT_HIGHLIGHTERS=(main brackets pattern cursor line)
 alias powershell="/usr/local/microsoft/powershell/6/pwsh ; exit;"
 
 #Chrome for headless chrome
-alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
+# alias chrome="/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome"
 # Ex: chrome --headless --disable-gpu --screenshot https://www.chromestatus.com/
 # Ex: chrome --headless --disable-gpu --dump-dom https://www.chromestatus.com/
 
-alias screenshot="chrome --headless --disable-gpu --screenshot"
-alias html="chrome --headless --disable-gpu --dump-dom"
-alias md="mdv"
+# alias screenshot="chrome --headless --disable-gpu --screenshot"
+# alias html="chrome --headless --disable-gpu --dump-dom"
+# alias md="mdv"
 
 # Folder for all repos
-alias repo="cd ~/Repos"
+alias repos="cd ~/Repos"
 # alias scratch="cd ~/Repos/_scratchpad"
 # alias scratchpad="cd ~/Repos/_scratchpad"
 
@@ -136,16 +136,16 @@ alias df="df -h"
 alias localip="ipconfig getifaddr en0"
 
 # Lock the screen (when going AFK)
-alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
+# alias afk="/System/Library/CoreServices/Menu\ Extras/User.menu/Contents/Resources/CGSession -suspend"
 
 # git aliases
-alias gdf="git diff"
-alias gap="git add -p"
-alias ga="git add ."
-alias gc="git commit -m"
-alias gs="git status"
-alias gco="git checkout"
-alias gul="git pull"
-alias gush="git push"
-alias gbra="git branch"
-alias glog="git log --pretty=format:'%h - %an: %s' --graph" # print out log with hash, author name, status, and include graph info
+# alias gdf="git diff"
+# alias gap="git add -p"
+# alias ga="git add ."
+# alias gc="git commit -m"
+# alias gs="git status"
+# alias gco="git checkout"
+# alias gul="git pull"
+# alias gush="git push"
+# alias gbra="git branch"
+# alias glog="git log --pretty=format:'%h - %an: %s' --graph" # print out log with hash, author name, status, and include graph info
