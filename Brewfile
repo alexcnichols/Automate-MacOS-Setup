@@ -57,7 +57,7 @@ brew "python3"                              # Python 3 including pip3
 # cask "dotnet-sdk"                           # .NET language tools
 # cask "discord"                              # Discord client (voice chat)
 # cask "firefox"                              # Firefox browser
-# cask "font-cascadia"                        # Cascadia dev font
+cask "font-cascadia"                        # Cascadia dev font
 # cask "google-chrome"                        # Chrome browser
 # cask "kap"                                  # Screen capture animated gifs
 # cask "keepingyouawake"                      # Keeps MacOS from going to sleep indefinitely
