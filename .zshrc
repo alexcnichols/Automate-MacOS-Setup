@@ -4,7 +4,7 @@
 # Path to your oh-my-zsh installation.
 
 ## RENAME PATH FOR YOURSELF!
-export ZSH="/Users/Dan/.oh-my-zsh"
+export ZSH="/Users/alexcnichols/.oh-my-zsh"
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -115,9 +115,9 @@ alias html="chrome --headless --disable-gpu --dump-dom"
 alias md="mdv"
 
 # Folder for all repos
-alias repo="cd ~/_Repos"
-alias scratch="cd ~/_Repos/_scratchpad"
-alias scratchpad="cd ~/_Repos/_scratchpad"
+alias repo="cd ~/Repos"
+# alias scratch="cd ~/Repos/_scratchpad"
+# alias scratchpad="cd ~/Repos/_scratchpad"
 
 # Source - https://medium.com/@tzhenghao/a-guide-to-building-a-great-bashrc-23c52e466b1c
 alias ..='cd ..'
