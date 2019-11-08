@@ -1,6 +1,8 @@
 # Set Ruby path
 export GEM_HOME=$HOME/gems
 export PATH=$HOME/gems/bin:$PATH
+export PATH=/usr/local/opt/ruby/bin:$PATH
+export PATH=$HOME/.gem/ruby/2.6.0/bin:$PATH
 
 # Set colors
 export CLICOLOR=1

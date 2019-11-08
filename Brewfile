@@ -27,7 +27,7 @@ tap "homebrew/cask-fonts"
 # brew "hugo"                                 # Static site generator
 # brew "jq"                                   # JSON command-line tool
 # brew "kubectx"                            # Context switch for kubectl
-# brew "kubernetes-cli"                     # Kubernetes cLI
+# brew "kubernetes-cli"                     # Kubernetes CLI
 # brew "kubernetes-helm"                    # Helm client for Kubernetes
 brew "mas"                                  # Mac App store app to download existing apps
 # brew "mitmproxy"                            # Free proxy for analyzing web traffic (like Fiddler)
@@ -36,6 +36,7 @@ brew "mas"                                  # Mac App store app to download exis
 # brew "npm"                                  # Node Package Manager
 # brew "pandoc"                               # File format converter
 brew "python3"                              # Python 3 including pip3
+brew "ruby"                                 # Ruby
 # brew "shpotify"                             # CLI for Spotify on Mac
 # brew "tldr"                                 # simple, community-drive man pages
 # brew "tree"                                 # Tree visualization for directories
