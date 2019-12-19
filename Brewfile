@@ -7,6 +7,7 @@ tap "homebrew/core"
 tap "homebrew/services"
 tap "azure/functions"
 tap "homebrew/cask-fonts"
+tap "github/gh"
 # brew "azure-cli"                            # Azure CLI
 # brew "azure-functions-core-tools"
 # brew "aircrack-ng"                        # Wifi network security tool (blocked by Avast)
@@ -17,6 +18,7 @@ tap "homebrew/cask-fonts"
 # brew "genact"                               # Random CLI simulator
 # brew "git"                                  # Dev tool
 # brew "git-extras"                           # Extra git commands for productivity / reporting
+brew "gh"
 # brew "gnu-sed"                              # Dev tool (req)
 # brew "golang"                               # Go Language tools
 # brew "goenv"                                # Go version management
