@@ -135,7 +135,7 @@ alias sudo='sudo '
 
 # Disk
 alias ll="ls -al"
-alias ls="ls  -a"
+alias ls="ls -a"
 alias df="df -h"
 
 # Networking
