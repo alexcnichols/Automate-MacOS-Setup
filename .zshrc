@@ -155,3 +155,4 @@ alias localip="ipconfig getifaddr en0"
 # alias gush="git push"
 # alias gbra="git branch"
 # alias glog="git log --pretty=format:'%h - %an: %s' --graph" # print out log with hash, author name, status, and include graph info
+git config --global alias.cheats '!open https://github.github.com/training-kit/downloads/github-git-cheat-sheet/'
