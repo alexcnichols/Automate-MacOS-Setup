@@ -18,6 +18,7 @@ tap "github/gh"
 # brew "genact"                               # Random CLI simulator
 # brew "git"                                  # Dev tool
 # brew "git-extras"                           # Extra git commands for productivity / reporting
+brew "git-lfs"
 brew "gh"
 # brew "gnu-sed"                              # Dev tool (req)
 # brew "golang"                               # Go Language tools
